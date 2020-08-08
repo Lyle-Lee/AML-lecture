@@ -1,1 +1,1 @@
-# AML-lecture
+# School of Computing, TokyoTech
