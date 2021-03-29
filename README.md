@@ -1,2 +1,2 @@
 ## Exercise and implementations about Machine Learning
-## @ School of Computing, TokyoTech
+@ School of Computing, TokyoTech
