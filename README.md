@@ -1,2 +1,2 @@
-## 20M30730
-# School of Computing, TokyoTech
+## Exercise and implementations about Machine Learning
+## @ School of Computing, TokyoTech
